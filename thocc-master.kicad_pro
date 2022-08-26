@@ -57,7 +57,8 @@
       ],
       "drc_exclusions": [
         "hole_clearance|238549500|158377000|dc822822-2df1-4fdb-b153-0d1c45aabb35|c4f5ed12-e20a-46ed-997b-5f6d88e66541",
-        "hole_clearance|262362000|158377000|28e52b1c-fe53-4887-87ea-86aff6ef00c2|004c0464-246e-4334-b6b0-05657455ed62"
+        "hole_clearance|262362000|158377000|28e52b1c-fe53-4887-87ea-86aff6ef00c2|004c0464-246e-4334-b6b0-05657455ed62",
+        "hole_clearance|505249500|75192000|4f06032b-4db9-497f-92a0-54e09322e90f|fa072982-2090-4fe4-a7f4-1f8ef08169c3"
       ],
       "meta": {
         "version": 2
@@ -405,7 +406,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Voyager.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

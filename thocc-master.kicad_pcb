@@ -53,7 +53,7 @@
     )
     (pad_to_mask_clearance 0)
     (pcbplotparams
-      (layerselection 0x00010fc_ffffffff)
+      (layerselection 0x0000000_ffffffff)
       (disableapertmacros false)
       (usegerberextensions false)
       (usegerberattributes true)
@@ -6436,7 +6436,7 @@
       (net 2 "GND") (pinfunction "Pin_4") (pintype "passive") (tstamp bd66c897-cef4-4e97-b7c2-d96bdc9202b9))
     (pad "MP" smd roundrect (at 2.8 -1.875 270) (size 1.2 1.8) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.2083333333) (tstamp 0445b607-db7b-48bf-9121-234a46832c20))
     (pad "MP" smd roundrect (at -2.8 -1.875 270) (size 1.2 1.8) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.2083333333) (tstamp 313ff982-c6a2-4211-bda0-5fd5482d5b93))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_-_SM04B-SRSS-TB(LF)(SN).step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
